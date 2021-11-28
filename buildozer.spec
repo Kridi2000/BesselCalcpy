@@ -7,7 +7,7 @@ title = Bessel Calc
 package.name = besselcalc01
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.kridi
+package.domain = org.kridi2000
 
 # (str) Source code where the main.py live
 source.dir = .
